@@ -16,7 +16,6 @@ window.onload = function(){
             message.innerHTML = "Please enter a valid email address."
             
         }
-       
         // $("#form")[0].reset();
     }
 }
